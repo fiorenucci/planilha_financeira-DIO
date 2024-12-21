@@ -1,5 +1,5 @@
 <p align="center">
-<a href="assets/Planilha_Fiore.xlsx">
+<a href="Planilha_Fiore.xlsx">
     Planilha de Controle Financeiro
 </a>
 </p>
